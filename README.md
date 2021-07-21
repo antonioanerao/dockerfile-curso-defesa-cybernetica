@@ -13,6 +13,7 @@ Um simples Dockerfile que eu uso no dia a dia do curso de Defesa Cybernética <b
 - net-tools 
 - nmap 
 - sqlmap 
+- metasploit
 - nano
 - vim 
 - apache2
